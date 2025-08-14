@@ -1,21 +1,23 @@
-30DaysOfDataScience
+## 30DaysOfDataScience
 
 
 # Day 2: Python Basicsof language and git Basics.md
 
 Error I made
 
-'IndentationError': unexpected indent
+IndentationError: unexpected indent
+
 In cell 3, I put (extra space or tab) at the beginning of a line where it was not expected.
 **Lesson** Python is very strict about indentation, which is used to define blocks of code (like inside functions, loops, etc.)
 
 'SyntaxError': invalid syntax
-In cell 6, I accidentally added a '|' symbol before "Alice", which caused invalid syntax
+
+In cell 6, I accidentally added a '|' symbol before "Alice", which caused invalid syntax.
 Python means there's something wrong with the way your code is written, and Python can't understand it.
 
 How i fix them
-I removed the extra space at the begining of 'name = "Alice" '.
-I removed the special character in front of '|' "Alice"
+I removed the extra space at the begining of 'name = "Alice".
+I removed the special character in front of '|' "Alice".
 
 
 
