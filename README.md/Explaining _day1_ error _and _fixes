@@ -1,0 +1,23 @@
+30DaysOfDataScience
+
+## This repository contains Jupyter notebooks documenting my 30 Days of Data Science journey. In particular, it shows how I learned Python step-by-step, including mistakes I made along the way.
+
+# Day 1: Python Basics and Printing
+Errors I Made
+
+# Syntax Error:
+In one cell, I accidentally added a '|' symbol before a comment, which caused a syntax error.
+**Lesson:** Python doesn't allow special characters at the beginning of lines expect '_'
+
+Case Sensitivity Error:
+I wrote Print instead of print. Python is case-sensitive, so this caused a 'NameError'.
+
+How I Fixed Them
+
+Removed the stray '|' character to fix the syntax error.
+
+Corrected Print to lowercase print to fix the case sensitivity issue.
+
+## Why Documenting Errors Matters
+
+By showing my mistakes and fixes, I can track my progress and help others understand common beginner issues in Python.
